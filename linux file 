@@ -1,0 +1,31 @@
+Linux Files
+In Linux system, everything is a file and if it is not a file, it is a process. A file doesn't include only text files, images and compiled programs but also include partitions, hardware device drivers and directories. Linux consider everything as as file.
+
+Files are always case sensitive. Let's understand it through an example.
+
+Linux Files 
+In above example, we have two files named as 'Demo.txt' and 'demo.txt'. Although, they both share the same name but still they are two different files.
+
+Types of Files:
+Regular files (-): It contain programs, executable files and text files.
+Directory files (d): It is shown in blue color. It contain list of files.
+Special files
+Block file (b)
+Character device file (c)
+Named pipe file (p)
+Symbolic link file (l)
+Socket file (s)
+Linux File Commands
+Command	Description
+file
+Determines file type.
+touch
+Used to create a file.
+rm
+To remove a file.
+cp
+To copy a file.
+mv
+To rename or to move a file.
+rename
+To rename file.
