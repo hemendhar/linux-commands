@@ -1,0 +1,9 @@
+chown command is used to change the file Owner or group. Whenever you want to change ownership you can use chown command. 
+
+Syntax:  
+
+chown [OPTION]… [OWNER][:[GROUP]] FILE…
+chown [OPTION]… –reference=RFILE FILE…
+Example: To change owner of the file: 
+
+chown owner_name file_name
